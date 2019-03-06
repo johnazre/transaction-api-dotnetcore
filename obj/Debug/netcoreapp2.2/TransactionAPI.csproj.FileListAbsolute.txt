@@ -1,0 +1,14 @@
+/Users/johnarmbruster/Desktop/csharp-projects/TransactionAPI/bin/Debug/netcoreapp2.2/TransactionAPI.deps.json
+/Users/johnarmbruster/Desktop/csharp-projects/TransactionAPI/bin/Debug/netcoreapp2.2/TransactionAPI.runtimeconfig.json
+/Users/johnarmbruster/Desktop/csharp-projects/TransactionAPI/bin/Debug/netcoreapp2.2/TransactionAPI.runtimeconfig.dev.json
+/Users/johnarmbruster/Desktop/csharp-projects/TransactionAPI/bin/Debug/netcoreapp2.2/TransactionAPI.dll
+/Users/johnarmbruster/Desktop/csharp-projects/TransactionAPI/bin/Debug/netcoreapp2.2/TransactionAPI.pdb
+/Users/johnarmbruster/Desktop/csharp-projects/TransactionAPI/obj/Debug/netcoreapp2.2/TransactionAPI.csprojAssemblyReference.cache
+/Users/johnarmbruster/Desktop/csharp-projects/TransactionAPI/obj/Debug/netcoreapp2.2/TransactionAPI.csproj.CoreCompileInputs.cache
+/Users/johnarmbruster/Desktop/csharp-projects/TransactionAPI/obj/Debug/netcoreapp2.2/TransactionAPI.RazorAssemblyInfo.cache
+/Users/johnarmbruster/Desktop/csharp-projects/TransactionAPI/obj/Debug/netcoreapp2.2/TransactionAPI.RazorAssemblyInfo.cs
+/Users/johnarmbruster/Desktop/csharp-projects/TransactionAPI/obj/Debug/netcoreapp2.2/TransactionAPI.AssemblyInfoInputs.cache
+/Users/johnarmbruster/Desktop/csharp-projects/TransactionAPI/obj/Debug/netcoreapp2.2/TransactionAPI.AssemblyInfo.cs
+/Users/johnarmbruster/Desktop/csharp-projects/TransactionAPI/obj/Debug/netcoreapp2.2/TransactionAPI.RazorTargetAssemblyInfo.cache
+/Users/johnarmbruster/Desktop/csharp-projects/TransactionAPI/obj/Debug/netcoreapp2.2/TransactionAPI.dll
+/Users/johnarmbruster/Desktop/csharp-projects/TransactionAPI/obj/Debug/netcoreapp2.2/TransactionAPI.pdb
